@@ -53,5 +53,3 @@ tell application "Terminal"
 end tell
 ```
 
-## Download Alfred workflow
-
